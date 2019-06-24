@@ -1,0 +1,10 @@
+body {
+  margin: 5% 12%;
+  background-color: rgb(161, 238, 186);
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: blue;
+  }
+}
